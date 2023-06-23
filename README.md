@@ -1,6 +1,6 @@
 ## Available Scripts
 
-In the project directory, you can run:
+To start Frontend, Go to project root directory and you can run:
 
 ### `npm start`
 
